@@ -1,5 +1,5 @@
 <h1 align="center"> Pagina de Receitas </h1>
-<p align="center"><a href="https://debstd22.github.io/LinkTree/">Acesse o projeto finalizado clicando aqui</a></p>
+<p align="center"><a href="https://debstd22.github.io/Pagina-de-Receitas/">Acesse o projeto finalizado clicando aqui</a></p>
 
 <p align="center">
    <a href="#objetivo-do-projeto">Objetivo do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
